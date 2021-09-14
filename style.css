@@ -4,3 +4,31 @@ a{
 h1{
 	color:red;
 }
+body{
+	margin:0
+}
+.wrapper {
+	margin: auto;
+	width: 80%;
+}
+.logo,.menu{
+	display: inline-block;
+}
+.logo{
+	margin-right:63%;
+}
+.header{
+	display:flex;
+	justify-content: space-between;
+}
+.logo{
+	padding: 40px 0 40px 0;
+}
+
+.menu{
+	display:flex;
+	align-items:center;
+}
+.menu__navigation{
+	padding: 0 13px;
+}
