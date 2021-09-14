@@ -24,11 +24,6 @@ body{
 .logo{
 	padding: 40px 0 40px 0;
 }
-
-.menu{
-	display:flex;
-	align-items:center;
-}
 .menu__navigation{
 	padding: 0 13px;
 }
